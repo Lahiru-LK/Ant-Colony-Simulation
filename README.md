@@ -1,10 +1,10 @@
-Here's a README for your Ant Colony program, complete with emojis and detailed explanations.
-
----
 
 # 🐜 Ant Colony Simulation
 
 Welcome to the **Ant Colony Simulation** project! This program simulates the behavior of an ant colony, including their search for food and water, reproduction, and survival. Dive into the fascinating world of ants and see how they work together to thrive in their environment.
+
+https://github.com/Lahiru-LK/Ant-Colony-Simulation/assets/104630433/8b66042a-6025-4aca-ba91-7aaacea96251
+
 
 ## 📂 Project Structure
 
